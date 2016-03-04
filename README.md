@@ -6,8 +6,7 @@ Please download th file "PSSMHCpan-1.0.tar.gz" and unpackage:
 tar -xzvf PSSMHCpan-1.0.tar.gz
 
 #Running
-cd ./PSSMHCpan-1.0
-./PSSMHCpan
+.PSSMHCpan-1.0/PSSMHCpan
 
 #Run the example
 sh ./PSSMHCpan/test.sh
